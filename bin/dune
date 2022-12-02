@@ -1,3 +1,2 @@
-(executable
- (public_name d1)
- (name d1))
+(executables
+ (names d1 d2))
